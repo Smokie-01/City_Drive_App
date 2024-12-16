@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">18302086439</string>
+    <string name="google_api_key" translatable="false">AIzaSyBB3-lwJwdBivsW1B78JCJuWg9KXIopiPY</string>
+    <string name="google_app_id" translatable="false">1:18302086439:android:2e545ce1f9eeabe61f0d02</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBB3-lwJwdBivsW1B78JCJuWg9KXIopiPY</string>
+    <string name="google_storage_bucket" translatable="false">citydrive-d4511.firebasestorage.app</string>
+    <string name="project_id" translatable="false">citydrive-d4511</string>
+</resources>

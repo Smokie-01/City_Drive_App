@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18302086439",
+    "project_id": "citydrive-d4511",
+    "storage_bucket": "citydrive-d4511.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18302086439:android:2e545ce1f9eeabe61f0d02",
+        "android_client_info": {
+          "package_name": "com.example.city_drive_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB3-lwJwdBivsW1B78JCJuWg9KXIopiPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+com.example.city_drive_app-jetified-firebase-common-20.4.2-0 C:\Users\Taufiq\.gradle\caches\transforms-3\0f3b748e3e0116b10da63b5db6c97f3d\transformed\jetified-firebase-common-20.4.2\res
+com.example.city_drive_app-jetified-window-java-1.0.0-beta04-1 C:\Users\Taufiq\.gradle\caches\transforms-3\234cf6cab2ae0df1de11d520bd41701d\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.city_drive_app-jetified-window-1.0.0-beta04-2 C:\Users\Taufiq\.gradle\caches\transforms-3\2f632d8dec5aedcc344894ac2d746d3d\transformed\jetified-window-1.0.0-beta04\res
+com.example.city_drive_app-jetified-annotation-experimental-1.1.0-3 C:\Users\Taufiq\.gradle\caches\transforms-3\63de43c2f1d406e95d47893f129ee7b9\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.city_drive_app-core-1.6.0-4 C:\Users\Taufiq\.gradle\caches\transforms-3\72d701307b1115688b608c7110be19e8\transformed\core-1.6.0\res
+com.example.city_drive_app-jetified-play-services-basement-18.1.0-5 C:\Users\Taufiq\.gradle\caches\transforms-3\b1b34065a9e0fbeb945439284bc5f6a3\transformed\jetified-play-services-basement-18.1.0\res
+com.example.city_drive_app-debug-6 C:\Users\Taufiq\Desktop\Flutter\city_drive_app\android\app\src\debug\res
+com.example.city_drive_app-main-7 C:\Users\Taufiq\Desktop\Flutter\city_drive_app\android\app\src\main\res
+com.example.city_drive_app-google-services-8 C:\Users\Taufiq\Desktop\Flutter\city_drive_app\build\app\generated\res\google-services\debug
+com.example.city_drive_app-pngs-9 C:\Users\Taufiq\Desktop\Flutter\city_drive_app\build\app\generated\res\pngs\debug
+com.example.city_drive_app-resValues-10 C:\Users\Taufiq\Desktop\Flutter\city_drive_app\build\app\generated\res\resValues\debug
+com.example.city_drive_app-rs-11 C:\Users\Taufiq\Desktop\Flutter\city_drive_app\build\app\generated\res\rs\debug
+com.example.city_drive_app-mergeDebugResources-12 C:\Users\Taufiq\Desktop\Flutter\city_drive_app\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.city_drive_app-mergeDebugResources-13 C:\Users\Taufiq\Desktop\Flutter\city_drive_app\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.city_drive_app-merged_res-14 C:\Users\Taufiq\Desktop\Flutter\city_drive_app\build\app\intermediates\merged_res\debug
+com.example.city_drive_app-packaged_res-15 C:\Users\Taufiq\Desktop\Flutter\city_drive_app\build\firebase_core\intermediates\packaged_res\debug
